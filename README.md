@@ -28,3 +28,5 @@ events, and performances. This app bridges that gap.
 5. Run on emulator or device
 #Demo video link
  https://drive.google.com/file/d/1O0KTBKeW-pwD8PljXJMx678oFn0jnN0V/view?usp=drivesdk
+
+screenshorts link : https://drive.google.com/drive/folders/1WZGA4GlvnBMelO5apvuIjv-YNfnNNdBR
