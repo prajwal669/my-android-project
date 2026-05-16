@@ -26,3 +26,5 @@ events, and performances. This app bridges that gap.
 3. Add your own `google-services.json` to the `app/` folder
 4. Sync Gradle
 5. Run on emulator or device
+#Demo video link
+ https://drive.google.com/file/d/1O0KTBKeW-pwD8PljXJMx678oFn0jnN0V/view?usp=drivesdk
